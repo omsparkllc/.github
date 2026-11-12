@@ -8,19 +8,19 @@ We help organizations design, architect, and implement AI-informed systems that 
 
 ## What We Do
 
-**AI Strategy & Governance** — Responsible AI adoption, governance frameworks, and integration planning for organizations navigating the shift to AI-augmented operations.
+**AI Strategy & Governance**: Responsible AI adoption, governance frameworks, and integration planning for organizations moving to AI-augmented operations.
 
-**Systems Architecture** — Enterprise integration design, API strategy, data pipeline architecture, and system modernization across cloud and hybrid environments.
+**Systems Architecture**: Enterprise integration design, API strategy, data pipeline architecture, and system modernization across cloud and hybrid environments.
 
-**Product & Platform Engineering** — Full-stack development from concept through production. Web, mobile, and API platforms built to scale.
+**Product & Platform Engineering**: Full-stack development from concept through production. Web, mobile, and API platforms built to scale.
 
-**Fractional CTO / VP Engineering** — Technical leadership for teams that need senior engineering guidance without a full-time hire. Architecture decisions, team structure, and delivery cadence.
+**Fractional CTO / VP Engineering**: Technical leadership for teams that need senior engineering guidance without a full-time hire. Architecture decisions, team structure, and delivery cadence.
 
 ## Founded By
 
-**[Nikhil Singhal](https://linkedin.com/in/nikhilsinghal)** — 25 years of engineering leadership across Microsoft, T-Mobile, AT&T, Expedia Group, and Hitachi Consulting. Author of the [Human Intelligence Partnership Charter](https://hipcharter.com) and the [From Instinct to Intent](https://aitrustcommons.org/blog/) series on AI governance.
+**[Nikhil Singhal](https://nikhilsinghal.com)**: Enterprise AI Architect & Builder · Hands-on CTO. Three decades of building: enterprise scale at Microsoft, Expedia and T-Mobile, and startups where he served as CTO. He built [CenterEye](https://centereye.ai) and wrote the [Human Intelligence Partnership Charter](https://hipcharter.com) and the [From Instinct to Intent](https://aitrustcommons.org/blog/) series.
 
-[nikhilsinghal.com](https://nikhilsinghal.com) | [Portfolio](https://nikhilsinghal.com/portfolio/) | [LinkedIn](https://linkedin.com/in/nikhilsinghal)
+[nikhilsinghal.com](https://nikhilsinghal.com) | [Portfolio](https://nikhilsinghal.com/portfolio/) | [LinkedIn](https://www.linkedin.com/in/nikhilsinghal/)
 
 ## Contact
 
